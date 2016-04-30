@@ -1,0 +1,4 @@
+C:\Source\NET SDK V1.0\CSharp.Api.Client.Domain\bin\Debug\CSharp.Api.Client.Domain.dll
+C:\Source\NET SDK V1.0\CSharp.Api.Client.Domain\bin\Debug\CSharp.Api.Client.Domain.pdb
+C:\Source\NET SDK V1.0\CSharp.Api.Client.Domain\obj\Debug\CSharp.Api.Client.Domain.dll
+C:\Source\NET SDK V1.0\CSharp.Api.Client.Domain\obj\Debug\CSharp.Api.Client.Domain.pdb
