@@ -1,0 +1,9 @@
+
+packages
+Publish
+
+*\obj
+*\bin
+*.csproj.user
+*.user
+*.orig
