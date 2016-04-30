@@ -1,4 +1,0 @@
-THREAD 0, View PDF of 1 DOCX executing time: 596 
-
-Average upload time for file: 596
-183
